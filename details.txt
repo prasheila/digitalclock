@@ -1,7 +1,2 @@
-For images use Unsplash websites to get background images
-//CSS
-for the body they have used
-display:flex; meaning the display will be flexible and can be resized;
-flex-direction: column; they are resized in column wise and they can be resized and they are displayed column wise if it is row then they are flexible and are displayed row wise
-align-items: this aligns the items to the center.
+
  
